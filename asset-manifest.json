@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactRecipes/static/css/main.b1dfa761.chunk.css",
+    "main.js": "/ReactRecipes/static/js/main.17fe9550.chunk.js",
+    "main.js.map": "/ReactRecipes/static/js/main.17fe9550.chunk.js.map",
+    "runtime-main.js": "/ReactRecipes/static/js/runtime-main.951324ea.js",
+    "runtime-main.js.map": "/ReactRecipes/static/js/runtime-main.951324ea.js.map",
+    "static/js/2.93e8bea1.chunk.js": "/ReactRecipes/static/js/2.93e8bea1.chunk.js",
+    "static/js/2.93e8bea1.chunk.js.map": "/ReactRecipes/static/js/2.93e8bea1.chunk.js.map",
+    "index.html": "/ReactRecipes/index.html",
+    "precache-manifest.551ce2d64f92eb11a1b4929e24e68b13.js": "/ReactRecipes/precache-manifest.551ce2d64f92eb11a1b4929e24e68b13.js",
+    "service-worker.js": "/ReactRecipes/service-worker.js",
+    "static/css/main.b1dfa761.chunk.css.map": "/ReactRecipes/static/css/main.b1dfa761.chunk.css.map",
+    "static/js/2.93e8bea1.chunk.js.LICENSE.txt": "/ReactRecipes/static/js/2.93e8bea1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactRecipes/static/media/pexels-lukas-349610.8cde6f3b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.951324ea.js",
+    "static/js/2.93e8bea1.chunk.js",
+    "static/css/main.b1dfa761.chunk.css",
+    "static/js/main.17fe9550.chunk.js"
+  ]
+}
